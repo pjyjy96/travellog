@@ -1,0 +1,14 @@
+C:\Users\pjyjy\source\repos\TravelLog\TravelLog\bin\Debug\netcoreapp2.2\TravelLog.deps.json
+C:\Users\pjyjy\source\repos\TravelLog\TravelLog\bin\Debug\netcoreapp2.2\TravelLog.runtimeconfig.json
+C:\Users\pjyjy\source\repos\TravelLog\TravelLog\bin\Debug\netcoreapp2.2\TravelLog.runtimeconfig.dev.json
+C:\Users\pjyjy\source\repos\TravelLog\TravelLog\bin\Debug\netcoreapp2.2\TravelLog.dll
+C:\Users\pjyjy\source\repos\TravelLog\TravelLog\bin\Debug\netcoreapp2.2\TravelLog.pdb
+C:\Users\pjyjy\source\repos\TravelLog\TravelLog\obj\Debug\netcoreapp2.2\TravelLog.csprojAssemblyReference.cache
+C:\Users\pjyjy\source\repos\TravelLog\TravelLog\obj\Debug\netcoreapp2.2\TravelLog.csproj.CoreCompileInputs.cache
+C:\Users\pjyjy\source\repos\TravelLog\TravelLog\obj\Debug\netcoreapp2.2\TravelLog.RazorAssemblyInfo.cache
+C:\Users\pjyjy\source\repos\TravelLog\TravelLog\obj\Debug\netcoreapp2.2\TravelLog.RazorAssemblyInfo.cs
+C:\Users\pjyjy\source\repos\TravelLog\TravelLog\obj\Debug\netcoreapp2.2\TravelLog.AssemblyInfoInputs.cache
+C:\Users\pjyjy\source\repos\TravelLog\TravelLog\obj\Debug\netcoreapp2.2\TravelLog.AssemblyInfo.cs
+C:\Users\pjyjy\source\repos\TravelLog\TravelLog\obj\Debug\netcoreapp2.2\TravelLog.RazorTargetAssemblyInfo.cache
+C:\Users\pjyjy\source\repos\TravelLog\TravelLog\obj\Debug\netcoreapp2.2\TravelLog.dll
+C:\Users\pjyjy\source\repos\TravelLog\TravelLog\obj\Debug\netcoreapp2.2\TravelLog.pdb
