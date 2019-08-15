@@ -28,6 +28,8 @@ namespace TravelLog.Migrations
 
                     b.Property<string>("Uploaded");
 
+                    b.Property<string>("Url");
+
                     b.Property<string>("Width");
 
                     b.HasKey("Id");

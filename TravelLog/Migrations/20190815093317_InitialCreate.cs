@@ -14,6 +14,7 @@ namespace TravelLog.Migrations
                         .Annotation("Sqlite:Autoincrement", true),
                     Title = table.Column<string>(nullable: true),
                     Tags = table.Column<string>(nullable: true),
+                    Url = table.Column<string>(nullable: true),
                     Uploaded = table.Column<string>(nullable: true),
                     Width = table.Column<string>(nullable: true),
                     Height = table.Column<string>(nullable: true)

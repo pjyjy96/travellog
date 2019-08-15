@@ -8,7 +8,7 @@ using TravelLog.Models;
 namespace TravelLog.Migrations
 {
     [DbContext(typeof(TravelLogContext))]
-    [Migration("20190814075409_InitialCreate")]
+    [Migration("20190815093317_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -29,6 +29,8 @@ namespace TravelLog.Migrations
                     b.Property<string>("Title");
 
                     b.Property<string>("Uploaded");
+
+                    b.Property<string>("Url");
 
                     b.Property<string>("Width");
 
