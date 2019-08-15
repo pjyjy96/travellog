@@ -155,6 +155,7 @@ namespace TravelLog.Controllers
                     System.Drawing.Image image = System.Drawing.Image.FromStream(stream);
                     travelItems.Height = image.Height.ToString();
                     travelItems.Width = image.Width.ToString();
+                    travelItems.Url = cloudBlock.SnapshotQualifiedUri.AbsoluteUri;
                     travelItems.Uploaded = DateTime.Now.ToString();
 
                     _context.TravelItems.Add(travelItems);
