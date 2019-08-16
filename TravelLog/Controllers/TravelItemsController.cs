@@ -121,7 +121,7 @@ namespace TravelLog.Controllers
 
             if (!String.IsNullOrEmpty(tags)) //make sure user gave a tag to search
             {
-                travels = travels.Where(s => s.Tags.ToLower().Equals(tags.ToLower())); // find the entries with the search tag and reassign
+                travels = travels.Where(s => s.Tags.ToLower().Contains(tags.ToLower()) || s.Title.ToLower().Contains(tags.ToLower())); // find the entries with the search tag and reassign
             }
 
             var returned = await travels.ToListAsync(); //return the memes
